@@ -1,0 +1,43 @@
+{
+    "code": "MT001",
+    "name": "Fabio Ludke",
+    "description": "Perfil para Fabio Ludke - Mato Grosso (com TimeBomb até 01/12/2026)",
+    "versao": 1,
+    "createdDate": 1757427716638,
+    "updatedDate": 1757427716638,
+    "expirationDate": 1796180399638,
+    "configuration": {
+        "area": 0.0,
+        "pontos": {
+            "analisar": "VERIFICAR_INVALIDOS",
+            "distanciaLimiteEmKm": 2.0
+        },
+        "categoria": {
+            "cf": "REMANESCENTE",
+            "editar": true,
+            "validarComCAP": true
+        },
+        "especie": {
+            "editar": true,
+            "idReflorestamento": 0,
+            "proibidas": [
+            ]
+        },
+        "portaSementes": {
+            "contar": true,
+            "calcularIdeal": false
+        },
+        "levantamento": "NORMAL",
+        "numeracao": "SEQUENCIAL",
+        "tipoDeCoordenada": "XY",
+        "protecao": {
+            "timeBomb": 1796094000600,
+            "campoErradoAltura": false,
+            "coordenadaCerta": true
+        }
+    },
+    "especies": [
+    ],
+    "updateDescription": null,
+    "requiredAppVersion": null
+}

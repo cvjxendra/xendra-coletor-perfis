@@ -1,0 +1,43 @@
+{
+    "code": "RO001",
+    "name": "Forest Ark",
+    "description": "Perfil para Forest Ark - Rondônia",
+    "versao": 1,
+    "createdDate": 1757427669880,
+    "updatedDate": 1757427669880,
+    "expirationDate": null,
+    "configuration": {
+        "area": 0.0,
+        "pontos": {
+            "analisar": "VERIFICAR_INVALIDOS",
+            "distanciaLimiteEmKm": 2.0
+        },
+        "categoria": {
+            "cf": "CORTE_FUTURO",
+            "editar": false,
+            "validarComCAP": false
+        },
+        "especie": {
+            "editar": true,
+            "idReflorestamento": 0,
+            "proibidas": [
+            ]
+        },
+        "portaSementes": {
+            "contar": false,
+            "calcularIdeal": false
+        },
+        "levantamento": "NORMAL",
+        "numeracao": "SEQUENCIAL",
+        "tipoDeCoordenada": "UTM",
+        "protecao": {
+            "timeBomb": 0,
+            "campoErradoAltura": false,
+            "coordenadaCerta": true
+        }
+    },
+    "especies": [
+    ],
+    "updateDescription": null,
+    "requiredAppVersion": null
+}
