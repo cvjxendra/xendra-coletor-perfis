@@ -16,7 +16,7 @@
             "cf": "REMANESCENTE",
             "editar": true,
             "validarComCAP": true,
-            "entrada": "NUMERICA"
+            "entrada": "OCULTA"
         },
         "especie": {
             "editar": true,
