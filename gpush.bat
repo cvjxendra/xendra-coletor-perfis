@@ -13,5 +13,3 @@ git commit -m "%~1"
 echo Fazendo push...
 git push
 
-echo Concluído!
-pause
