@@ -14,9 +14,8 @@
         },
         "categoria": {
             "cf": "REMANESCENTE",
-            "editar": true,
-            "validarComCAP": true,
-            "entrada": "NUMERICA"
+            "editar": false,
+            "validarComCAP": false
         },
         "especie": {
             "editar": true,
