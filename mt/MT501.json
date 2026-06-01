@@ -10,7 +10,8 @@
         "area": 0.0,
         "pontos": {
             "analisar": "VERIFICAR_INVALIDOS",
-            "distanciaLimiteEmKm": 2.0
+            "distanciaLimiteEmKm": 2.0,
+            "distanciaMinimaEntreCoordenadasMetros": 0.99
         },
         "categoria": {
             "cf": "REMANESCENTE",
