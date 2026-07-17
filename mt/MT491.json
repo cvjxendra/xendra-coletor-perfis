@@ -2,9 +2,9 @@
     "code": "MT491",
     "name": "Tiago e Bruno",
     "description": "Perfil para Tiago e Bruno - Mato Grosso",
-    "versao": 1,
+    "versao": 2,
     "createdDate": 1765293940232,
-    "updatedDate": 1765293940232,
+    "updatedDate": 1784323238140,
     "expirationDate": null,
     "configuration": {
         "area": 0.0,
@@ -30,6 +30,8 @@
         "levantamento": "NORMAL",
         "numeracao": "SEQUENCIAL",
         "tipoDeCoordenada": "UTM",
+        "permitirPlaquetaRepetidaEntrePicadas": true,
+        "permitirCoordenadaProximaComConfirmacao": true,
         "protecao": {
             "timeBomb": 0,
             "campoErradoAltura": false,
@@ -693,6 +695,6 @@
             "cientifico": ""
         }
     ],
-    "updateDescription": null,
+    "updateDescription": "Habilita plaquetas por picada e confirmação de coordenada próxima",
     "requiredAppVersion": null
 }
