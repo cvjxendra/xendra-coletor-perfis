@@ -1,0 +1,477 @@
+{
+    "code": "RO150",
+    "name": "Clebio Lucas Ribeiro",
+    "description": "Perfil para Clebio Lucas Ribeiro - Rondônia",
+    "versao": 1,
+    "createdDate": 1786661683059,
+    "updatedDate": 1786661683059,
+    "expirationDate": null,
+    "configuration": {
+        "area": 0.0,
+        "pontos": {
+            "analisar": "VERIFICAR_INVALIDOS",
+            "distanciaLimiteEmKm": 2.0,
+            "distanciaMinimaEntreCoordenadasMetros": 0.20
+        },
+        "categoria": {
+            "cf": "CORTE_FUTURO",
+            "editar": false,
+            "validarComCAP": false,
+            "entrada": "OCULTA"
+        },
+        "especie": {
+            "editar": true,
+            "idReflorestamento": 0,
+            "proibidas": [
+            ]
+        },
+        "portaSementes": {
+            "contar": false,
+            "calcularIdeal": false
+        },
+        "levantamento": "NORMAL",
+        "numeracao": "SEQUENCIAL",
+        "tipoDeCoordenada": "UTM",
+        "requireDegradedSaveConfirmation": true,
+        "permitirCoordenadaProximaComConfirmacao": true,
+        "protecao": {
+            "timeBomb": 0,
+            "campoErradoAltura": false,
+            "coordenadaCerta": true
+        }
+    },
+    "especies": [
+        {
+            "especieId": 6,
+            "vulgar": "Cerejeira",
+            "cientifico": ""
+        },
+        {
+            "especieId": 7,
+            "vulgar": "Cedro-rosa",
+            "cientifico": ""
+        },
+        {
+            "especieId": 8,
+            "vulgar": "Cedromara",
+            "cientifico": ""
+        },
+        {
+            "especieId": 10,
+            "vulgar": "Castanheira",
+            "cientifico": ""
+        },
+        {
+            "especieId": 16,
+            "vulgar": "Caroba",
+            "cientifico": ""
+        },
+        {
+            "especieId": 28,
+            "vulgar": "Cambará",
+            "cientifico": ""
+        },
+        {
+            "especieId": 29,
+            "vulgar": "Caju",
+            "cientifico": ""
+        },
+        {
+            "especieId": 52,
+            "vulgar": "Breu",
+            "cientifico": ""
+        },
+        {
+            "especieId": 69,
+            "vulgar": "Apuí",
+            "cientifico": ""
+        },
+        {
+            "especieId": 70,
+            "vulgar": "Angelim-saia",
+            "cientifico": ""
+        },
+        {
+            "especieId": 77,
+            "vulgar": "Amapá",
+            "cientifico": ""
+        },
+        {
+            "especieId": 78,
+            "vulgar": "Bolão",
+            "cientifico": ""
+        },
+        {
+            "especieId": 84,
+            "vulgar": "Abiurana",
+            "cientifico": ""
+        },
+        {
+            "especieId": 97,
+            "vulgar": "Caucho",
+            "cientifico": ""
+        },
+        {
+            "especieId": 143,
+            "vulgar": "Angelim",
+            "cientifico": ""
+        },
+        {
+            "especieId": 154,
+            "vulgar": "Angelim-amargoso",
+            "cientifico": ""
+        },
+        {
+            "especieId": 188,
+            "vulgar": "Abiu",
+            "cientifico": ""
+        },
+        {
+            "especieId": 210,
+            "vulgar": "Coração-de-negro",
+            "cientifico": ""
+        },
+        {
+            "especieId": 222,
+            "vulgar": "Cumaru",
+            "cientifico": ""
+        },
+        {
+            "especieId": 229,
+            "vulgar": "Amescla",
+            "cientifico": ""
+        },
+        {
+            "especieId": 322,
+            "vulgar": "Faveira",
+            "cientifico": ""
+        },
+        {
+            "especieId": 327,
+            "vulgar": "Tento",
+            "cientifico": ""
+        },
+        {
+            "especieId": 331,
+            "vulgar": "Freijó",
+            "cientifico": ""
+        },
+        {
+            "especieId": 336,
+            "vulgar": "Garapeira",
+            "cientifico": ""
+        },
+        {
+            "especieId": 345,
+            "vulgar": "Ingá",
+            "cientifico": ""
+        },
+        {
+            "especieId": 386,
+            "vulgar": "Itaúba",
+            "cientifico": ""
+        },
+        {
+            "especieId": 396,
+            "vulgar": "Jatobá",
+            "cientifico": ""
+        },
+        {
+            "especieId": 416,
+            "vulgar": "Cinzeiro",
+            "cientifico": ""
+        },
+        {
+            "especieId": 420,
+            "vulgar": "Tamarindo",
+            "cientifico": ""
+        },
+        {
+            "especieId": 429,
+            "vulgar": "Louro",
+            "cientifico": ""
+        },
+        {
+            "especieId": 441,
+            "vulgar": "Canela",
+            "cientifico": ""
+        },
+        {
+            "especieId": 458,
+            "vulgar": "Maçaranduba",
+            "cientifico": ""
+        },
+        {
+            "especieId": 473,
+            "vulgar": "Maracatiara",
+            "cientifico": ""
+        },
+        {
+            "especieId": 477,
+            "vulgar": "Caxeta",
+            "cientifico": ""
+        },
+        {
+            "especieId": 496,
+            "vulgar": "Cupiúba",
+            "cientifico": ""
+        },
+        {
+            "especieId": 584,
+            "vulgar": "Pequiá",
+            "cientifico": ""
+        },
+        {
+            "especieId": 598,
+            "vulgar": "Pororoca",
+            "cientifico": ""
+        },
+        {
+            "especieId": 614,
+            "vulgar": "Sucupira",
+            "cientifico": ""
+        },
+        {
+            "especieId": 618,
+            "vulgar": "Roxinho",
+            "cientifico": ""
+        },
+        {
+            "especieId": 623,
+            "vulgar": "Seringueira",
+            "cientifico": ""
+        },
+        {
+            "especieId": 766,
+            "vulgar": "Ucuuba",
+            "cientifico": ""
+        },
+        {
+            "especieId": 769,
+            "vulgar": "Cedro",
+            "cientifico": ""
+        },
+        {
+            "especieId": 775,
+            "vulgar": "Tauari-vermelho",
+            "cientifico": ""
+        },
+        {
+            "especieId": 781,
+            "vulgar": "Copaíba",
+            "cientifico": ""
+        },
+        {
+            "especieId": 785,
+            "vulgar": "Jequitibá",
+            "cientifico": ""
+        },
+        {
+            "especieId": 788,
+            "vulgar": "Tauari-branco",
+            "cientifico": ""
+        },
+        {
+            "especieId": 791,
+            "vulgar": "Peroba-rosa",
+            "cientifico": ""
+        },
+        {
+            "especieId": 792,
+            "vulgar": "Pente-de-macaco",
+            "cientifico": ""
+        },
+        {
+            "especieId": 794,
+            "vulgar": "Bacuri",
+            "cientifico": ""
+        },
+        {
+            "especieId": 796,
+            "vulgar": "Matamatá",
+            "cientifico": ""
+        },
+        {
+            "especieId": 798,
+            "vulgar": "Guariuba",
+            "cientifico": ""
+        },
+        {
+            "especieId": 799,
+            "vulgar": "Ipê",
+            "cientifico": ""
+        },
+        {
+            "especieId": 801,
+            "vulgar": "Sumaúma",
+            "cientifico": ""
+        },
+        {
+            "especieId": 829,
+            "vulgar": "Orelha-de-macaco",
+            "cientifico": ""
+        },
+        {
+            "especieId": 835,
+            "vulgar": "Apijó",
+            "cientifico": ""
+        },
+        {
+            "especieId": 882,
+            "vulgar": "Açoita-cavalo",
+            "cientifico": ""
+        },
+        {
+            "especieId": 883,
+            "vulgar": "Algodoeiro",
+            "cientifico": ""
+        },
+        {
+            "especieId": 962,
+            "vulgar": "Catuaba",
+            "cientifico": ""
+        },
+        {
+            "especieId": 993,
+            "vulgar": "Mirindiba",
+            "cientifico": ""
+        },
+        {
+            "especieId": 1015,
+            "vulgar": "Tamboril",
+            "cientifico": ""
+        },
+        {
+            "especieId": 1017,
+            "vulgar": "Bajão",
+            "cientifico": ""
+        },
+        {
+            "especieId": 1063,
+            "vulgar": "Jacarandá",
+            "cientifico": ""
+        },
+        {
+            "especieId": 1216,
+            "vulgar": "Taxi",
+            "cientifico": ""
+        },
+        {
+            "especieId": 1237,
+            "vulgar": "Uxi",
+            "cientifico": ""
+        },
+        {
+            "especieId": 1242,
+            "vulgar": "Violeta",
+            "cientifico": ""
+        },
+        {
+            "especieId": 1246,
+            "vulgar": "Bandarra",
+            "cientifico": ""
+        },
+        {
+            "especieId": 1248,
+            "vulgar": "Cedrinho",
+            "cientifico": ""
+        },
+        {
+            "especieId": 1249,
+            "vulgar": "Cumarurana",
+            "cientifico": ""
+        },
+        {
+            "especieId": 1255,
+            "vulgar": "Mandioqueiro",
+            "cientifico": ""
+        },
+        {
+            "especieId": 1275,
+            "vulgar": "Embiruçu",
+            "cientifico": ""
+        },
+        {
+            "especieId": 1295,
+            "vulgar": "Tarumã",
+            "cientifico": ""
+        },
+        {
+            "especieId": 1312,
+            "vulgar": "Amarelão",
+            "cientifico": ""
+        },
+        {
+            "especieId": 1333,
+            "vulgar": "Timborana",
+            "cientifico": ""
+        },
+        {
+            "especieId": 1379,
+            "vulgar": "Bicuíba",
+            "cientifico": ""
+        },
+        {
+            "especieId": 1434,
+            "vulgar": "Fava-amargosa",
+            "cientifico": ""
+        },
+        {
+            "especieId": 1435,
+            "vulgar": "Cumaru-rosa",
+            "cientifico": "Dipteryx odorata"
+        },
+        {
+            "especieId": 1436,
+            "vulgar": "Cumaru-ferro",
+            "cientifico": "Dipteryx odorata"
+        },
+        {
+            "especieId": 1437,
+            "vulgar": "Jequitiba-rosa",
+            "cientifico": "Allantoma lineata"
+        },
+        {
+            "especieId": 1438,
+            "vulgar": "Ipe-amarelo",
+            "cientifico": "Tabebuia serratifolia"
+        },
+        {
+            "especieId": 1439,
+            "vulgar": "CEDRILHO",
+            "cientifico": ""
+        },
+        {
+            "especieId": 1440,
+            "vulgar": "Orelhinha",
+            "cientifico": "Enterolobium schomburgkii"
+        },
+        {
+            "especieId": 1441,
+            "vulgar": "Pama",
+            "cientifico": "Pseudolmedia multinervis"
+        },
+        {
+            "especieId": 1442,
+            "vulgar": "Faveira-branca",
+            "cientifico": "Parkia multijuga"
+        },
+        {
+            "especieId": 1443,
+            "vulgar": "Amesclao",
+            "cientifico": "Trattinnickia burseraefolia"
+        },
+        {
+            "especieId": 1444,
+            "vulgar": "Pequiarana",
+            "cientifico": "Caryocar amygdaliferum"
+        },
+        {
+            "especieId": 1445,
+            "vulgar": "Peroba-mica",
+            "cientifico": "Aspidosperma macrocarpon"
+        }
+    ],
+    "updateDescription": null,
+    "requiredAppVersion": null
+}
