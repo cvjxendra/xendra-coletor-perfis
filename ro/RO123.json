@@ -1,0 +1,1901 @@
+{
+    "code": "RO123",
+    "name": "Amanda e Rick",
+    "description": "Perfil para Amanda e Rick - Rondônia",
+    "versao": 1,
+    "createdDate": 1787604059827,
+    "updatedDate": 1787604059827,
+    "expirationDate": null,
+    "configuration": {
+        "area": 0.0,
+        "pontos": {
+            "analisar": "VERIFICAR_INVALIDOS",
+            "distanciaLimiteEmKm": 2.0
+        },
+        "categoria": {
+            "cf": "CORTE_FUTURO",
+            "editar": false,
+            "validarComCAP": false,
+            "entrada": "OCULTA"
+        },
+        "especie": {
+            "editar": true,
+            "idReflorestamento": 0,
+            "proibidas": [
+            ]
+        },
+        "portaSementes": {
+            "contar": false,
+            "calcularIdeal": false
+        },
+        "levantamento": "NORMAL",
+        "numeracao": "SEQUENCIAL",
+        "tipoDeCoordenada": "UTM",
+        "gpsObrigatorio": true,
+        "requireDegradedSaveConfirmation": true,
+        "protecao": {
+            "timeBomb": 0,
+            "campoErradoAltura": false,
+            "coordenadaCerta": true
+        }
+    },
+    "especies": [
+        {
+            "especieId": 1,
+            "vulgar": "Abiu",
+            "cientifico": "Pouteria caimito"
+        },
+        {
+            "especieId": 2,
+            "vulgar": "Abiurana",
+            "cientifico": "Chrysophyllum prieurii"
+        },
+        {
+            "especieId": 3,
+            "vulgar": "ACACIA",
+            "cientifico": "Cassia sp."
+        },
+        {
+            "especieId": 4,
+            "vulgar": "ACARI",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 5,
+            "vulgar": "AQUARIQUARA",
+            "cientifico": "Minquartia sp."
+        },
+        {
+            "especieId": 6,
+            "vulgar": "Amapá",
+            "cientifico": "Brosimum guianense"
+        },
+        {
+            "especieId": 7,
+            "vulgar": "Amarelão",
+            "cientifico": "Bagassa guianensis"
+        },
+        {
+            "especieId": 8,
+            "vulgar": "Bacuri-de-anta",
+            "cientifico": "Moronobea coccinea"
+        },
+        {
+            "especieId": 9,
+            "vulgar": "Angelim",
+            "cientifico": "Hymenolobium excelsum"
+        },
+        {
+            "especieId": 10,
+            "vulgar": "APUI - APURUI",
+            "cientifico": "Ficus sp"
+        },
+        {
+            "especieId": 11,
+            "vulgar": "Açaí-da-mata",
+            "cientifico": "Euterpe precatoria"
+        },
+        {
+            "especieId": 12,
+            "vulgar": "ATA",
+            "cientifico": "Rollinia sp"
+        },
+        {
+            "especieId": 13,
+            "vulgar": "BABACU",
+            "cientifico": "Attaleia speciosa"
+        },
+        {
+            "especieId": 14,
+            "vulgar": "4",
+            "cientifico": "Rheedia sp"
+        },
+        {
+            "especieId": 15,
+            "vulgar": "BÁLSAMO-CABRIUVA",
+            "cientifico": "Myroxylon sp"
+        },
+        {
+            "especieId": 16,
+            "vulgar": "Bandarra",
+            "cientifico": "Parkia paraensis"
+        },
+        {
+            "especieId": 17,
+            "vulgar": "Bolão",
+            "cientifico": "Pouteria pachycarpa"
+        },
+        {
+            "especieId": 18,
+            "vulgar": "Breu",
+            "cientifico": "Protium robustum"
+        },
+        {
+            "especieId": 19,
+            "vulgar": "CACAU DA MATA",
+            "cientifico": "Theobroma silvestris"
+        },
+        {
+            "especieId": 20,
+            "vulgar": "Caxeta",
+            "cientifico": "Simarouba amara"
+        },
+        {
+            "especieId": 21,
+            "vulgar": "Caju-da-mata",
+            "cientifico": "Anacardium spruceanum"
+        },
+        {
+            "especieId": 22,
+            "vulgar": "Canela-de-cheiro",
+            "cientifico": "Ocotea opifera"
+        },
+        {
+            "especieId": 23,
+            "vulgar": "CARIPE",
+            "cientifico": "Licania sp."
+        },
+        {
+            "especieId": 24,
+            "vulgar": "CASCA DE ACAI",
+            "cientifico": "Banara guianensis"
+        },
+        {
+            "especieId": 25,
+            "vulgar": "Castanheira",
+            "cientifico": "Bertholletia excelsa"
+        },
+        {
+            "especieId": 26,
+            "vulgar": "Catuaba",
+            "cientifico": "Qualea dinizii"
+        },
+        {
+            "especieId": 27,
+            "vulgar": "Caucho",
+            "cientifico": "Castilla ulei"
+        },
+        {
+            "especieId": 28,
+            "vulgar": "Cedro",
+            "cientifico": "Cedrelinga cateniformis"
+        },
+        {
+            "especieId": 29,
+            "vulgar": "Cedromara",
+            "cientifico": "Cedrelinga cateniformis"
+        },
+        {
+            "especieId": 30,
+            "vulgar": "Cedro-rosa",
+            "cientifico": "Cedrela odorata"
+        },
+        {
+            "especieId": 31,
+            "vulgar": "CERNAMBI DE INDIO",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 32,
+            "vulgar": "Copaíba",
+            "cientifico": "Copaifera guianensis"
+        },
+        {
+            "especieId": 33,
+            "vulgar": "Coração-de-negro",
+            "cientifico": "Zollernia paraensis"
+        },
+        {
+            "especieId": 34,
+            "vulgar": "Cumaru",
+            "cientifico": "Dipteryx odorata"
+        },
+        {
+            "especieId": 35,
+            "vulgar": "CUPUACU DA MATA",
+            "cientifico": "Theobroma sp."
+        },
+        {
+            "especieId": 36,
+            "vulgar": "EMBAUBA",
+            "cientifico": "Cecropia sp."
+        },
+        {
+            "especieId": 37,
+            "vulgar": "Envira",
+            "cientifico": "Xylopia frutescens"
+        },
+        {
+            "especieId": 38,
+            "vulgar": "ESCORREGA MACACO",
+            "cientifico": "Peltogyne paniculata"
+        },
+        {
+            "especieId": 39,
+            "vulgar": "Espeteiro",
+            "cientifico": "Casearia gossypiosperma"
+        },
+        {
+            "especieId": 40,
+            "vulgar": "ESPINHEIRO",
+            "cientifico": "Acacia polyphylla"
+        },
+        {
+            "especieId": 41,
+            "vulgar": "Farinha-seca",
+            "cientifico": "Lindackeria paraensis"
+        },
+        {
+            "especieId": 42,
+            "vulgar": "FAVEIRA",
+            "cientifico": "Enterolobium sp."
+        },
+        {
+            "especieId": 43,
+            "vulgar": "Figueira",
+            "cientifico": "Ficus insipida"
+        },
+        {
+            "especieId": 44,
+            "vulgar": "FUMO BRAVO",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 45,
+            "vulgar": "Garapeira",
+            "cientifico": "Apuleia leiocarpa"
+        },
+        {
+            "especieId": 46,
+            "vulgar": "Garrote",
+            "cientifico": "Bagassa guianensis"
+        },
+        {
+            "especieId": 47,
+            "vulgar": "Guarantã",
+            "cientifico": "Esenbeckia leiocarpa"
+        },
+        {
+            "especieId": 48,
+            "vulgar": "GUARIUBA",
+            "cientifico": "Clarisia sp."
+        },
+        {
+            "especieId": 49,
+            "vulgar": "Ingá",
+            "cientifico": "Inga alba"
+        },
+        {
+            "especieId": 50,
+            "vulgar": "Ipê",
+            "cientifico": "Handroanthus serratifolius"
+        },
+        {
+            "especieId": 51,
+            "vulgar": "Itaúba",
+            "cientifico": "Mezilaurus itauba"
+        },
+        {
+            "especieId": 52,
+            "vulgar": "CANELA PRECIOSA",
+            "cientifico": "Aniba canelilla"
+        },
+        {
+            "especieId": 53,
+            "vulgar": "JARACATIA",
+            "cientifico": "Jaracatia sp."
+        },
+        {
+            "especieId": 54,
+            "vulgar": "Jatobá",
+            "cientifico": "Hymenaea courbaril"
+        },
+        {
+            "especieId": 55,
+            "vulgar": "Jequitiba",
+            "cientifico": "Cariniana rubra"
+        },
+        {
+            "especieId": 56,
+            "vulgar": "Jitó",
+            "cientifico": "Guarea silvatica"
+        },
+        {
+            "especieId": 57,
+            "vulgar": "LACRE",
+            "cientifico": "Vismia sp."
+        },
+        {
+            "especieId": 58,
+            "vulgar": "Libra",
+            "cientifico": "Erisma uncinatum"
+        },
+        {
+            "especieId": 59,
+            "vulgar": "LOURO",
+            "cientifico": "Ocotea sp."
+        },
+        {
+            "especieId": 60,
+            "vulgar": "Macucu",
+            "cientifico": "Couepia leptostachya"
+        },
+        {
+            "especieId": 61,
+            "vulgar": "MAMICA DE CADELA",
+            "cientifico": "Fagaria sp."
+        },
+        {
+            "especieId": 62,
+            "vulgar": "Maracatiara",
+            "cientifico": "Astronium lecointei"
+        },
+        {
+            "especieId": 63,
+            "vulgar": "MARINHEIRO",
+            "cientifico": "Dulacacia guianensis"
+        },
+        {
+            "especieId": 64,
+            "vulgar": "MARUPA",
+            "cientifico": "Simaruba amaura"
+        },
+        {
+            "especieId": 65,
+            "vulgar": "Maçaranduba",
+            "cientifico": "Manilkara elata"
+        },
+        {
+            "especieId": 66,
+            "vulgar": "MATA MATA",
+            "cientifico": "Eschweilera sp."
+        },
+        {
+            "especieId": 67,
+            "vulgar": "MULATEIRO",
+            "cientifico": "Capirona decorticans"
+        },
+        {
+            "especieId": 68,
+            "vulgar": "Murici",
+            "cientifico": "Byrsonima densa"
+        },
+        {
+            "especieId": 69,
+            "vulgar": "N.I.",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 70,
+            "vulgar": "Oiticica",
+            "cientifico": "Clarisia racemosa"
+        },
+        {
+            "especieId": 71,
+            "vulgar": "Orelha-de-macaco",
+            "cientifico": "Enterolobium schomburgkii"
+        },
+        {
+            "especieId": 72,
+            "vulgar": "Pama",
+            "cientifico": "Pseudolmedia laevis"
+        },
+        {
+            "especieId": 73,
+            "vulgar": "PATUA",
+            "cientifico": "Jessenia sp."
+        },
+        {
+            "especieId": 74,
+            "vulgar": "PAXIUBA",
+            "cientifico": "Iriartea sp"
+        },
+        {
+            "especieId": 75,
+            "vulgar": "Pente-de-macaco",
+            "cientifico": "Apeiba glabra"
+        },
+        {
+            "especieId": 76,
+            "vulgar": "Pequi",
+            "cientifico": "Caryocar villosum"
+        },
+        {
+            "especieId": 77,
+            "vulgar": "Pindaíba",
+            "cientifico": "Xylopia frutescens"
+        },
+        {
+            "especieId": 78,
+            "vulgar": "Pintadinho",
+            "cientifico": "Poeppigia procera"
+        },
+        {
+            "especieId": 79,
+            "vulgar": "PIRARARA",
+            "cientifico": "Metrodorea sp"
+        },
+        {
+            "especieId": 80,
+            "vulgar": "PURUI",
+            "cientifico": "Duroia sp."
+        },
+        {
+            "especieId": 81,
+            "vulgar": "QUINA QUINA",
+            "cientifico": "Geissospermum sericeum"
+        },
+        {
+            "especieId": 82,
+            "vulgar": "Roxinho",
+            "cientifico": "Peltogyne paniculata"
+        },
+        {
+            "especieId": 83,
+            "vulgar": "Sumaúma",
+            "cientifico": "Ceiba pentandra"
+        },
+        {
+            "especieId": 84,
+            "vulgar": "Seringueira",
+            "cientifico": "Hevea brasiliensis"
+        },
+        {
+            "especieId": 85,
+            "vulgar": "Sorva",
+            "cientifico": "Couma macrocarpa"
+        },
+        {
+            "especieId": 86,
+            "vulgar": "Sucupira",
+            "cientifico": "Bowdichia nitida"
+        },
+        {
+            "especieId": 87,
+            "vulgar": "Taxi",
+            "cientifico": "Tachigali paniculata"
+        },
+        {
+            "especieId": 88,
+            "vulgar": "Tamarindo",
+            "cientifico": "Martiodendron parviflorum"
+        },
+        {
+            "especieId": 89,
+            "vulgar": "Tauari",
+            "cientifico": "Couratari stellata"
+        },
+        {
+            "especieId": 90,
+            "vulgar": "TUCUMA",
+            "cientifico": "Astrocarium tucuma"
+        },
+        {
+            "especieId": 91,
+            "vulgar": "Ucuuba",
+            "cientifico": "Virola calophylla"
+        },
+        {
+            "especieId": 92,
+            "vulgar": "URTIGA",
+            "cientifico": "Urera caracasana"
+        },
+        {
+            "especieId": 93,
+            "vulgar": "URUCUM",
+            "cientifico": "Bixa sp."
+        },
+        {
+            "especieId": 94,
+            "vulgar": "URUCURANA",
+            "cientifico": "Sloanea sp"
+        },
+        {
+            "especieId": 95,
+            "vulgar": "Uxi",
+            "cientifico": "Endopleura uchi"
+        },
+        {
+            "especieId": 96,
+            "vulgar": "MIJOLEIRO",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 97,
+            "vulgar": "Angelim-amargoso",
+            "cientifico": "Vatairea fusca"
+        },
+        {
+            "especieId": 98,
+            "vulgar": "JAMBO",
+            "cientifico": "Palicourea sp"
+        },
+        {
+            "especieId": 99,
+            "vulgar": "CAROBA-PARAPARA",
+            "cientifico": "Jacaranda copaia"
+        },
+        {
+            "especieId": 100,
+            "vulgar": "IMBIREIRA",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 101,
+            "vulgar": "ALGODUEIRO",
+            "cientifico": "Heliocarpus sp"
+        },
+        {
+            "especieId": 102,
+            "vulgar": "JATAI POROROCA",
+            "cientifico": "Dialium guianensis"
+        },
+        {
+            "especieId": 103,
+            "vulgar": "CANELA DE JACAMIM",
+            "cientifico": "Rinorea passourea"
+        },
+        {
+            "especieId": 104,
+            "vulgar": "CUIARAMA",
+            "cientifico": "Sickingia sp"
+        },
+        {
+            "especieId": 105,
+            "vulgar": "Paineira",
+            "cientifico": "Chorisia integrifólia"
+        },
+        {
+            "especieId": 106,
+            "vulgar": "CAFEZINHO",
+            "cientifico": "Laetia sp"
+        },
+        {
+            "especieId": 107,
+            "vulgar": "COVETINGA",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 108,
+            "vulgar": "CINZEIRO",
+            "cientifico": "Erisma uncinatum"
+        },
+        {
+            "especieId": 109,
+            "vulgar": "ARACA",
+            "cientifico": "Eugenia sp"
+        },
+        {
+            "especieId": 110,
+            "vulgar": "MURURE",
+            "cientifico": "Pseudolmedia murure"
+        },
+        {
+            "especieId": 111,
+            "vulgar": "LANDIL",
+            "cientifico": "Bombax longipedicelatum"
+        },
+        {
+            "especieId": 112,
+            "vulgar": "Angelim-branco",
+            "cientifico": "Andira inermis"
+        },
+        {
+            "especieId": 113,
+            "vulgar": "FAVA DE ARARA",
+            "cientifico": "Parkia paraensis"
+        },
+        {
+            "especieId": 114,
+            "vulgar": "ANGELIM MANTEIGA",
+            "cientifico": "Andira retusa"
+        },
+        {
+            "especieId": 115,
+            "vulgar": "PITOMBA",
+            "cientifico": "Sloanea sp"
+        },
+        {
+            "especieId": 116,
+            "vulgar": "FORMIGUEIRO",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 117,
+            "vulgar": "OSSO DE PORCO",
+            "cientifico": "Coussarea sp"
+        },
+        {
+            "especieId": 118,
+            "vulgar": "CABREUVA PARDA",
+            "cientifico": "Myrocarpus frondosos"
+        },
+        {
+            "especieId": 119,
+            "vulgar": "Tamburi",
+            "cientifico": "Enterolobium maximum"
+        },
+        {
+            "especieId": 120,
+            "vulgar": "Angelim-pedra",
+            "cientifico": "Hymenolobium petraeum"
+        },
+        {
+            "especieId": 121,
+            "vulgar": "GUARI GUARI",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 122,
+            "vulgar": "IMBIRACU",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 123,
+            "vulgar": "IMBIRAMA",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 124,
+            "vulgar": "Cinzeiro",
+            "cientifico": "Terminalia amazonica"
+        },
+        {
+            "especieId": 125,
+            "vulgar": "Mogno",
+            "cientifico": "Swietenia macrophylla"
+        },
+        {
+            "especieId": 126,
+            "vulgar": "MORORO",
+            "cientifico": "Bauhinia acreana"
+        },
+        {
+            "especieId": 127,
+            "vulgar": "CANELAO",
+            "cientifico": "Hirtella excelsa"
+        },
+        {
+            "especieId": 128,
+            "vulgar": "SUCUPIRA AMARELA",
+            "cientifico": "Vataireopsis speciosa"
+        },
+        {
+            "especieId": 129,
+            "vulgar": "FOLHA DE SERRA",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 130,
+            "vulgar": "PEREIRA",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 131,
+            "vulgar": "ROXINHO POROROCA",
+            "cientifico": "Dialium guianensis"
+        },
+        {
+            "especieId": 132,
+            "vulgar": "BURRA LEITEIRA",
+            "cientifico": "Sapium marmieri"
+        },
+        {
+            "especieId": 133,
+            "vulgar": "Mulungu",
+            "cientifico": "Erythrina ullei"
+        },
+        {
+            "especieId": 134,
+            "vulgar": "Peroba-mico",
+            "cientifico": "Aspidosperma macrocarpon"
+        },
+        {
+            "especieId": 135,
+            "vulgar": "CACAUI",
+            "cientifico": "Theobroma obovatum"
+        },
+        {
+            "especieId": 136,
+            "vulgar": "MAMICA DE PORCA",
+            "cientifico": "Zanthoxyllum regneliana"
+        },
+        {
+            "especieId": 137,
+            "vulgar": "VELAME",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 138,
+            "vulgar": "CANAFISTULA-PARICA",
+            "cientifico": "Cassia sp"
+        },
+        {
+            "especieId": 139,
+            "vulgar": "Mirindiba",
+            "cientifico": "Buchenavia grandis"
+        },
+        {
+            "especieId": 140,
+            "vulgar": "PAJURA",
+            "cientifico": "Pouteria sp"
+        },
+        {
+            "especieId": 141,
+            "vulgar": "PATA DE VACA",
+            "cientifico": "Bauhinia sp"
+        },
+        {
+            "especieId": 142,
+            "vulgar": "FAVEIRA-FERRO",
+            "cientifico": "Cassia multijuga"
+        },
+        {
+            "especieId": 143,
+            "vulgar": "Pariri",
+            "cientifico": "Pouteria pariry"
+        },
+        {
+            "especieId": 144,
+            "vulgar": "Cedrilho",
+            "cientifico": "Vochysia maxima"
+        },
+        {
+            "especieId": 145,
+            "vulgar": "VASSOURINHA",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 146,
+            "vulgar": "Cajá",
+            "cientifico": "Spondias lutea"
+        },
+        {
+            "especieId": 147,
+            "vulgar": "Pinheiro",
+            "cientifico": "Abies balsamea"
+        },
+        {
+            "especieId": 148,
+            "vulgar": "Freijó",
+            "cientifico": "Cordia alliodora"
+        },
+        {
+            "especieId": 149,
+            "vulgar": "Parajú",
+            "cientifico": "Manilkara inundata"
+        },
+        {
+            "especieId": 150,
+            "vulgar": "ABACATE BRAVO",
+            "cientifico": "Anomalocalys sp"
+        },
+        {
+            "especieId": 151,
+            "vulgar": "Jenipapo",
+            "cientifico": "Tcayena brasiliensis"
+        },
+        {
+            "especieId": 152,
+            "vulgar": "MARIA PRETA",
+            "cientifico": "Ziziphus sp"
+        },
+        {
+            "especieId": 153,
+            "vulgar": "MACANAIBA",
+            "cientifico": "Bowdichia nitida"
+        },
+        {
+            "especieId": 154,
+            "vulgar": "PAU BRASIL",
+            "cientifico": "Aspidosperma desmanthus"
+        },
+        {
+            "especieId": 155,
+            "vulgar": "COPINHO",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 156,
+            "vulgar": "CEDRO MANGA",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 157,
+            "vulgar": "IMBIRAUVA",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 158,
+            "vulgar": "INGA XIXICA",
+            "cientifico": "Inga alba"
+        },
+        {
+            "especieId": 159,
+            "vulgar": "Cerejeira",
+            "cientifico": "Amburana acreana"
+        },
+        {
+            "especieId": 160,
+            "vulgar": "Pinho-cuiabano",
+            "cientifico": "Schizolobium amazonicum"
+        },
+        {
+            "especieId": 161,
+            "vulgar": "BOSTA DE MACACO",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 162,
+            "vulgar": "PAU D'ALHO",
+            "cientifico": "Gallesia integrifolia"
+        },
+        {
+            "especieId": 163,
+            "vulgar": "MANGO",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 164,
+            "vulgar": "ARATICUM",
+            "cientifico": "Anona montana"
+        },
+        {
+            "especieId": 165,
+            "vulgar": "Tarumã",
+            "cientifico": "Vitex polygama"
+        },
+        {
+            "especieId": 166,
+            "vulgar": "URTIGAO",
+            "cientifico": "Urera sp"
+        },
+        {
+            "especieId": 167,
+            "vulgar": "CEBOLEIRO",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 168,
+            "vulgar": "VERMELINHO",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 169,
+            "vulgar": "RESERVADO 01",
+            "cientifico": ""
+        },
+        {
+            "especieId": 170,
+            "vulgar": "LIMAOZINHO",
+            "cientifico": "Lacistema polystachym"
+        },
+        {
+            "especieId": 171,
+            "vulgar": "EMBIROCU",
+            "cientifico": "Bombax humile"
+        },
+        {
+            "especieId": 172,
+            "vulgar": "Angelim-saia",
+            "cientifico": "Parkia pendula"
+        },
+        {
+            "especieId": 173,
+            "vulgar": "FRUTA PAO",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 174,
+            "vulgar": "GUABIROBA",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 175,
+            "vulgar": "Goiabinha",
+            "cientifico": "Eugenia lambertiana"
+        },
+        {
+            "especieId": 176,
+            "vulgar": "FOLHA DE ESPADA",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 177,
+            "vulgar": "Mututi",
+            "cientifico": "Pterocarpus officinalis"
+        },
+        {
+            "especieId": 178,
+            "vulgar": "CANDIUBA",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 179,
+            "vulgar": "Angico",
+            "cientifico": "Anadenanthera peregrina"
+        },
+        {
+            "especieId": 180,
+            "vulgar": "Mandiocão",
+            "cientifico": "Schefflera morototoni"
+        },
+        {
+            "especieId": 181,
+            "vulgar": "BICUIBA",
+            "cientifico": "Virola surimanensis"
+        },
+        {
+            "especieId": 182,
+            "vulgar": "EMBU",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 183,
+            "vulgar": "JATUARANA",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 184,
+            "vulgar": "PORVERO",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 185,
+            "vulgar": "BARRIGUDA",
+            "cientifico": "Ceiba sellowiana"
+        },
+        {
+            "especieId": 186,
+            "vulgar": "SANANDU",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 187,
+            "vulgar": "Marmeleiro",
+            "cientifico": "Croton hemiargyreus"
+        },
+        {
+            "especieId": 188,
+            "vulgar": "UMBIGO DE QUIABO",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 189,
+            "vulgar": "CURA MADRE",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 190,
+            "vulgar": "BIRUCU",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 191,
+            "vulgar": "BAGINHA",
+            "cientifico": "Stryphnodendron sp"
+        },
+        {
+            "especieId": 192,
+            "vulgar": "Açoita-cavalo",
+            "cientifico": "Lueheopsis duckeana"
+        },
+        {
+            "especieId": 193,
+            "vulgar": "PIMENTEIRA",
+            "cientifico": "Piper sp"
+        },
+        {
+            "especieId": 194,
+            "vulgar": "PIUNA",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 195,
+            "vulgar": "Amoreira",
+            "cientifico": "Maclura tinctoria"
+        },
+        {
+            "especieId": 196,
+            "vulgar": "EMBAUBARANA",
+            "cientifico": "Pouroma minor"
+        },
+        {
+            "especieId": 197,
+            "vulgar": "EMBAUBAO",
+            "cientifico": "Pouroma sp"
+        },
+        {
+            "especieId": 198,
+            "vulgar": "ITAUBARANA",
+            "cientifico": "Heisteria spruceana"
+        },
+        {
+            "especieId": 199,
+            "vulgar": "MUTAMBA",
+            "cientifico": "Columbrina acreana"
+        },
+        {
+            "especieId": 200,
+            "vulgar": "ARAPOCA",
+            "cientifico": "Raputia magnifica"
+        },
+        {
+            "especieId": 201,
+            "vulgar": "ARURA",
+            "cientifico": "Iryanthera sp"
+        },
+        {
+            "especieId": 202,
+            "vulgar": "Cajarana",
+            "cientifico": "Spondias dulcis"
+        },
+        {
+            "especieId": 203,
+            "vulgar": "OLEO PARDO",
+            "cientifico": "Mycrocarpus sp"
+        },
+        {
+            "especieId": 204,
+            "vulgar": "PIQUIARANA",
+            "cientifico": "Caryocar glabrum"
+        },
+        {
+            "especieId": 205,
+            "vulgar": "RIPEIRO",
+            "cientifico": "Corythophora sp"
+        },
+        {
+            "especieId": 206,
+            "vulgar": "CACHIMBEIRO",
+            "cientifico": "Cariniana micrantha"
+        },
+        {
+            "especieId": 207,
+            "vulgar": "MUIRATINGA",
+            "cientifico": "Naucleopsis sp"
+        },
+        {
+            "especieId": 208,
+            "vulgar": "CAFERANA",
+            "cientifico": "Palicourea calophylla"
+        },
+        {
+            "especieId": 209,
+            "vulgar": "ANANI",
+            "cientifico": "Touomita sp"
+        },
+        {
+            "especieId": 210,
+            "vulgar": "Leiteiro",
+            "cientifico": "Himatanthus articulatus"
+        },
+        {
+            "especieId": 211,
+            "vulgar": "ENVIRA PRETA",
+            "cientifico": "Guatteria sp"
+        },
+        {
+            "especieId": 212,
+            "vulgar": "Cupiúba",
+            "cientifico": "Goupia glabra"
+        },
+        {
+            "especieId": 213,
+            "vulgar": "CRIOLI",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 215,
+            "vulgar": "BURDAO",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 216,
+            "vulgar": "TAQUARI",
+            "cientifico": "Tchnanthus brivicrobs"
+        },
+        {
+            "especieId": 217,
+            "vulgar": "SABUGUEIRO",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 218,
+            "vulgar": "JENIPARANA",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 219,
+            "vulgar": "CUMATÊ",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 220,
+            "vulgar": "COCOLOBA",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 221,
+            "vulgar": "Amescla",
+            "cientifico": "Trattinnickia burseraefolia"
+        },
+        {
+            "especieId": 222,
+            "vulgar": "GOIABA DE ANTA",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 223,
+            "vulgar": "LANINHO",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 224,
+            "vulgar": "JACAREUBA",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 225,
+            "vulgar": "Castelo",
+            "cientifico": "Terminalia amazonica"
+        },
+        {
+            "especieId": 226,
+            "vulgar": "Cambará",
+            "cientifico": "Qualea paraensis"
+        },
+        {
+            "especieId": 227,
+            "vulgar": "Bordão-de-velho",
+            "cientifico": "Samanea saman"
+        },
+        {
+            "especieId": 228,
+            "vulgar": "SANGRA D AGUA",
+            "cientifico": ""
+        },
+        {
+            "especieId": 229,
+            "vulgar": "Azedinho",
+            "cientifico": "Tovomita paniculata"
+        },
+        {
+            "especieId": 230,
+            "vulgar": "Bajão",
+            "cientifico": "Parkia paraensis"
+        },
+        {
+            "especieId": 231,
+            "vulgar": "Branquillho",
+            "cientifico": "Albizia hasslerii"
+        },
+        {
+            "especieId": 232,
+            "vulgar": "Cajuí",
+            "cientifico": "Anacardium spruceanum"
+        },
+        {
+            "especieId": 233,
+            "vulgar": "Carapanaúba",
+            "cientifico": "Aspidosperma carapanauba"
+        },
+        {
+            "especieId": 234,
+            "vulgar": "Embira",
+            "cientifico": "Bombax humile"
+        },
+        {
+            "especieId": 235,
+            "vulgar": "Gameleira",
+            "cientifico": "Ficus gomelleira"
+        },
+        {
+            "especieId": 236,
+            "vulgar": "Guanandi",
+            "cientifico": "Calophyllum brasiliense"
+        },
+        {
+            "especieId": 237,
+            "vulgar": "Milho-torrado",
+            "cientifico": "Licania kunthiana"
+        },
+        {
+            "especieId": 238,
+            "vulgar": "Peloteira",
+            "cientifico": "Guarea guidonia"
+        },
+        {
+            "especieId": 239,
+            "vulgar": "Sucuúba",
+            "cientifico": "Himatanthus sucuuba"
+        },
+        {
+            "especieId": 240,
+            "vulgar": "Tento",
+            "cientifico": "Ormosia arborea"
+        },
+        {
+            "especieId": 241,
+            "vulgar": "Xixá",
+            "cientifico": "Sterculia chicha"
+        },
+        {
+            "especieId": 242,
+            "vulgar": "Bofe-de-anta",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 243,
+            "vulgar": "Buchuchu",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 244,
+            "vulgar": "Jitão",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 245,
+            "vulgar": "Moca Branca",
+            "cientifico": "NI"
+        },
+        {
+            "especieId": 246,
+            "vulgar": "CAIXETA",
+            "cientifico": "**COLETOR**"
+        },
+        {
+            "especieId": 247,
+            "vulgar": "CAJU DA MATA",
+            "cientifico": "**COLETOR**"
+        },
+        {
+            "especieId": 248,
+            "vulgar": "CANELA",
+            "cientifico": "**COLETOR**"
+        },
+        {
+            "especieId": 249,
+            "vulgar": "FARINHA SECA",
+            "cientifico": "**COLETOR**"
+        },
+        {
+            "especieId": 250,
+            "vulgar": "Cedro-mangue",
+            "cientifico": "Calophyllum brasiliense"
+        },
+        {
+            "especieId": 251,
+            "vulgar": "ORELHA DE MACACO",
+            "cientifico": "**COLETOR**"
+        },
+        {
+            "especieId": 252,
+            "vulgar": "TACHI",
+            "cientifico": "**COLETOR**"
+        },
+        {
+            "especieId": 253,
+            "vulgar": "ANGELIM AMORGOSO",
+            "cientifico": "**COLETOR**"
+        },
+        {
+            "especieId": 254,
+            "vulgar": "ANGELIM PEDRA",
+            "cientifico": "**COLETOR**"
+        },
+        {
+            "especieId": 255,
+            "vulgar": "CEDRO AMAZONENSE",
+            "cientifico": "**COLETOR**"
+        },
+        {
+            "especieId": 256,
+            "vulgar": "ACOITA CAVALO",
+            "cientifico": "**COLETOR**"
+        },
+        {
+            "especieId": 257,
+            "vulgar": "PEROBA D?AGUA",
+            "cientifico": "**COLETOR**"
+        },
+        {
+            "especieId": 258,
+            "vulgar": "JEQUITIBA ROSA",
+            "cientifico": "**COLETOR**"
+        },
+        {
+            "especieId": 259,
+            "vulgar": "Caroba",
+            "cientifico": "Jacaranda copaia"
+        },
+        {
+            "especieId": 260,
+            "vulgar": "Virola",
+            "cientifico": "Sterculia speciosa"
+        },
+        {
+            "especieId": 261,
+            "vulgar": "Coracao-de-negro",
+            "cientifico": "Swartzia panacoco"
+        },
+        {
+            "especieId": 262,
+            "vulgar": "Fava-branca",
+            "cientifico": "Parkia multijuga"
+        },
+        {
+            "especieId": 263,
+            "vulgar": "Mamica-de-porca",
+            "cientifico": "Zanthoxylum acreanum"
+        },
+        {
+            "especieId": 264,
+            "vulgar": "Pequia",
+            "cientifico": "**COLETOR**"
+        },
+        {
+            "especieId": 265,
+            "vulgar": "Tauari-branco",
+            "cientifico": "**COLETOR**"
+        },
+        {
+            "especieId": 266,
+            "vulgar": "Carajuba",
+            "cientifico": "Terminalia acuminata"
+        },
+        {
+            "especieId": 267,
+            "vulgar": "Leiteiro",
+            "cientifico": "Sapium aereum"
+        },
+        {
+            "especieId": 268,
+            "vulgar": "Jutai-pororoca",
+            "cientifico": "**COLETOR**"
+        },
+        {
+            "especieId": 269,
+            "vulgar": "Guanandi",
+            "cientifico": "Calophyllum brasiliense"
+        },
+        {
+            "especieId": 270,
+            "vulgar": "RAPADURA AZEDA",
+            "cientifico": "**COLETOR**"
+        },
+        {
+            "especieId": 271,
+            "vulgar": "TAMBURIU",
+            "cientifico": "**COLETOR**"
+        },
+        {
+            "especieId": 272,
+            "vulgar": "IMBIRUÇU",
+            "cientifico": "**COLETOR**"
+        },
+        {
+            "especieId": 273,
+            "vulgar": "PEROBA MICA",
+            "cientifico": "**COLETOR**"
+        },
+        {
+            "especieId": 274,
+            "vulgar": "Cuiarana",
+            "cientifico": "Buchenavia huberi"
+        },
+        {
+            "especieId": 275,
+            "vulgar": "Breu-mescla",
+            "cientifico": "**COLETOR**"
+        },
+        {
+            "especieId": 276,
+            "vulgar": "Sucupira-preta",
+            "cientifico": "**COLETOR**"
+        },
+        {
+            "especieId": 277,
+            "vulgar": "Roxao",
+            "cientifico": "**COLETOR**"
+        },
+        {
+            "especieId": 278,
+            "vulgar": "Carrapateira",
+            "cientifico": "Sapium haematospermum"
+        },
+        {
+            "especieId": 279,
+            "vulgar": "IMBAUBA",
+            "cientifico": "**COLETOR**"
+        },
+        {
+            "especieId": 280,
+            "vulgar": "MAMÃO JACATIA",
+            "cientifico": "**COLETOR**"
+        },
+        {
+            "especieId": 281,
+            "vulgar": "Bacuri-de-anta",
+            "cientifico": "**COLETOR**"
+        },
+        {
+            "especieId": 282,
+            "vulgar": "Pente-de-macaco",
+            "cientifico": "Apeiba albiflora"
+        },
+        {
+            "especieId": 283,
+            "vulgar": "PAU PEREIRA",
+            "cientifico": "**COLETOR**"
+        },
+        {
+            "especieId": 284,
+            "vulgar": "CEDRO ROSA",
+            "cientifico": "**COLETOR**"
+        },
+        {
+            "especieId": 285,
+            "vulgar": "MASSARANDUBA",
+            "cientifico": "**COLETOR**"
+        },
+        {
+            "especieId": 286,
+            "vulgar": "SAMAUMA",
+            "cientifico": "**COLETOR**"
+        },
+        {
+            "especieId": 287,
+            "vulgar": "PINHO CUIABANO",
+            "cientifico": "**COLETOR**"
+        },
+        {
+            "especieId": 288,
+            "vulgar": "PEROBA ROSA",
+            "cientifico": "**COLETOR**"
+        },
+        {
+            "especieId": 289,
+            "vulgar": "ANGELIM DOCE",
+            "cientifico": "**COLETOR**"
+        },
+        {
+            "especieId": 290,
+            "vulgar": "CEDRO MARINHEIRO",
+            "cientifico": "**COLETOR**"
+        },
+        {
+            "especieId": 291,
+            "vulgar": "GUARANDI",
+            "cientifico": "**COLETOR**"
+        },
+        {
+            "especieId": 292,
+            "vulgar": "Embira-quiabo",
+            "cientifico": "Sterculia pilosa"
+        },
+        {
+            "especieId": 293,
+            "vulgar": "TENTEIRO",
+            "cientifico": "**COLETOR**"
+        },
+        {
+            "especieId": 294,
+            "vulgar": "FEIJAO CRU",
+            "cientifico": "**COLETOR**"
+        },
+        {
+            "especieId": 295,
+            "vulgar": "Matamatá",
+            "cientifico": "Eschweilera parviflora"
+        },
+        {
+            "especieId": 296,
+            "vulgar": "Jataí",
+            "cientifico": "Hymenaea capanema"
+        },
+        {
+            "especieId": 297,
+            "vulgar": "TAMBORIL",
+            "cientifico": ""
+        },
+        {
+            "especieId": 298,
+            "vulgar": "Embiruçu",
+            "cientifico": "Bombax humile"
+        },
+        {
+            "especieId": 299,
+            "vulgar": "SUCUPIRA-AMARELA",
+            "cientifico": ""
+        },
+        {
+            "especieId": 300,
+            "vulgar": "PEROBA-MICA",
+            "cientifico": ""
+        },
+        {
+            "especieId": 301,
+            "vulgar": "Guatambu",
+            "cientifico": "Trichilia claussenii"
+        },
+        {
+            "especieId": 302,
+            "vulgar": "CAMBARA PRETO",
+            "cientifico": ""
+        },
+        {
+            "especieId": 303,
+            "vulgar": "CAMBARA ROSA",
+            "cientifico": ""
+        },
+        {
+            "especieId": 304,
+            "vulgar": "Azedinha",
+            "cientifico": "Dialium guianense"
+        },
+        {
+            "especieId": 305,
+            "vulgar": "LIXEIRA",
+            "cientifico": ""
+        },
+        {
+            "especieId": 306,
+            "vulgar": "Angelim-coco",
+            "cientifico": "Andira frondosa"
+        },
+        {
+            "especieId": 307,
+            "vulgar": "CACHEADINHO",
+            "cientifico": ""
+        },
+        {
+            "especieId": 308,
+            "vulgar": "CAJUACU",
+            "cientifico": ""
+        },
+        {
+            "especieId": 309,
+            "vulgar": "TAXI-BRANCO",
+            "cientifico": ""
+        },
+        {
+            "especieId": 310,
+            "vulgar": "BACURI D ANTA",
+            "cientifico": ""
+        },
+        {
+            "especieId": 311,
+            "vulgar": "NAJA",
+            "cientifico": ""
+        },
+        {
+            "especieId": 312,
+            "vulgar": "CARVAO BRANCO",
+            "cientifico": ""
+        },
+        {
+            "especieId": 313,
+            "vulgar": "ANGELIM-MANTEIGA",
+            "cientifico": ""
+        },
+        {
+            "especieId": 314,
+            "vulgar": "MARIA-PRETA",
+            "cientifico": ""
+        },
+        {
+            "especieId": 315,
+            "vulgar": "Pau-sangue",
+            "cientifico": "Vismia brasiliensis"
+        },
+        {
+            "especieId": 316,
+            "vulgar": "SANGUINHO",
+            "cientifico": ""
+        },
+        {
+            "especieId": 317,
+            "vulgar": "MORCEGUEIRO",
+            "cientifico": ""
+        },
+        {
+            "especieId": 318,
+            "vulgar": "CEDRINHO",
+            "cientifico": ""
+        },
+        {
+            "especieId": 319,
+            "vulgar": "CAPITAO-DO-CAMPO",
+            "cientifico": ""
+        },
+        {
+            "especieId": 320,
+            "vulgar": "MARFIM",
+            "cientifico": ""
+        },
+        {
+            "especieId": 321,
+            "vulgar": "VINAGUEIRA",
+            "cientifico": ""
+        },
+        {
+            "especieId": 322,
+            "vulgar": "GEMADINHO",
+            "cientifico": ""
+        },
+        {
+            "especieId": 323,
+            "vulgar": "PITANGUEIRA",
+            "cientifico": ""
+        },
+        {
+            "especieId": 324,
+            "vulgar": "PEROBA FERRO",
+            "cientifico": ""
+        },
+        {
+            "especieId": 325,
+            "vulgar": "LEITE ROSA",
+            "cientifico": ""
+        },
+        {
+            "especieId": 326,
+            "vulgar": "EMBIREMA",
+            "cientifico": ""
+        },
+        {
+            "especieId": 327,
+            "vulgar": "Peroba-rosa",
+            "cientifico": "Aspidosperma polyneuron"
+        },
+        {
+            "especieId": 328,
+            "vulgar": "Pau-sangue",
+            "cientifico": "Vismia brasiliensis"
+        },
+        {
+            "especieId": 329,
+            "vulgar": "CAPITAO",
+            "cientifico": ""
+        },
+        {
+            "especieId": 330,
+            "vulgar": "NI",
+            "cientifico": ""
+        },
+        {
+            "especieId": 331,
+            "vulgar": "PINHA DO MATO",
+            "cientifico": ""
+        },
+        {
+            "especieId": 332,
+            "vulgar": "Angelim-amarelo",
+            "cientifico": "Hymenolobium excelsum"
+        },
+        {
+            "especieId": 333,
+            "vulgar": "PENTE DE MACACO",
+            "cientifico": ""
+        },
+        {
+            "especieId": 334,
+            "vulgar": "Algodoeiro",
+            "cientifico": "Huberodendron swietenioides"
+        },
+        {
+            "especieId": 335,
+            "vulgar": "Leitero",
+            "cientifico": "Himatanthus articulatus"
+        },
+        {
+            "especieId": 336,
+            "vulgar": "ANGELIM-VERMELHO",
+            "cientifico": ""
+        },
+        {
+            "especieId": 337,
+            "vulgar": "PAMA AMARELA",
+            "cientifico": ""
+        },
+        {
+            "especieId": 338,
+            "vulgar": "PEROBA-AMARELA",
+            "cientifico": ""
+        },
+        {
+            "especieId": 339,
+            "vulgar": "AMAPA AMARGOSO",
+            "cientifico": ""
+        },
+        {
+            "especieId": 340,
+            "vulgar": "CENTRO MANGA",
+            "cientifico": "Cedrelinga cateniformis"
+        },
+        {
+            "especieId": 341,
+            "vulgar": "Piranheira",
+            "cientifico": "Piranhea trifoliata"
+        },
+        {
+            "especieId": 342,
+            "vulgar": "Bacuri",
+            "cientifico": "Ecclinusa guianensis"
+        },
+        {
+            "especieId": 343,
+            "vulgar": "PAU SANGUE",
+            "cientifico": ""
+        },
+        {
+            "especieId": 344,
+            "vulgar": "PEROBA AMARGOSA",
+            "cientifico": ""
+        },
+        {
+            "especieId": 345,
+            "vulgar": "Bacuri-de-paca",
+            "cientifico": "Moronobea pulchra"
+        },
+        {
+            "especieId": 346,
+            "vulgar": "Bacuri-de-anta",
+            "cientifico": "Symphonia globulifera"
+        },
+        {
+            "especieId": 347,
+            "vulgar": "LEITEIRA",
+            "cientifico": ""
+        },
+        {
+            "especieId": 348,
+            "vulgar": "ABIU-DE-CASCA-GROSSA",
+            "cientifico": ""
+        },
+        {
+            "especieId": 349,
+            "vulgar": "CEDRO MANGUE",
+            "cientifico": ""
+        },
+        {
+            "especieId": 350,
+            "vulgar": "FAVA",
+            "cientifico": ""
+        },
+        {
+            "especieId": 351,
+            "vulgar": "POROROCA",
+            "cientifico": ""
+        },
+        {
+            "especieId": 352,
+            "vulgar": "PEROBINHA",
+            "cientifico": ""
+        },
+        {
+            "especieId": 353,
+            "vulgar": "AMENDOIM",
+            "cientifico": ""
+        },
+        {
+            "especieId": 354,
+            "vulgar": "BAJINHA",
+            "cientifico": ""
+        },
+        {
+            "especieId": 355,
+            "vulgar": "LARANJINHA",
+            "cientifico": ""
+        },
+        {
+            "especieId": 356,
+            "vulgar": "LOBEIRA",
+            "cientifico": ""
+        },
+        {
+            "especieId": 357,
+            "vulgar": "PEROBA",
+            "cientifico": ""
+        },
+        {
+            "especieId": 358,
+            "vulgar": "APIJO",
+            "cientifico": ""
+        },
+        {
+            "especieId": 359,
+            "vulgar": "JOAO-MOLE",
+            "cientifico": ""
+        },
+        {
+            "especieId": 360,
+            "vulgar": "PINTANGA",
+            "cientifico": ""
+        },
+        {
+            "especieId": 361,
+            "vulgar": "FEU DE PACA",
+            "cientifico": ""
+        },
+        {
+            "especieId": 362,
+            "vulgar": "PITEIRO",
+            "cientifico": ""
+        },
+        {
+            "especieId": 363,
+            "vulgar": "CUMARU-FERRO",
+            "cientifico": ""
+        },
+        {
+            "especieId": 364,
+            "vulgar": "PEROBA-DAGUA",
+            "cientifico": ""
+        },
+        {
+            "especieId": 365,
+            "vulgar": "ITAUBAO",
+            "cientifico": ""
+        },
+        {
+            "especieId": 366,
+            "vulgar": "ORELHA DE NEGRO",
+            "cientifico": ""
+        },
+        {
+            "especieId": 367,
+            "vulgar": "BREU MESCLA",
+            "cientifico": ""
+        },
+        {
+            "especieId": 368,
+            "vulgar": "TACHI/TAXI VERMELHO",
+            "cientifico": ""
+        },
+        {
+            "especieId": 369,
+            "vulgar": "TAXI PRETO",
+            "cientifico": ""
+        },
+        {
+            "especieId": 370,
+            "vulgar": "CAJUEIRO",
+            "cientifico": ""
+        },
+        {
+            "especieId": 371,
+            "vulgar": "BACURI DE ANTA",
+            "cientifico": ""
+        },
+        {
+            "especieId": 372,
+            "vulgar": "COPAIBÃO",
+            "cientifico": ""
+        }
+    ],
+    "updateDescription": null,
+    "requiredAppVersion": null
+}
