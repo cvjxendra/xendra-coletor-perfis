@@ -1,10 +1,10 @@
 {
     "code": "MT512",
     "name": "Grasielle Dassi",
-    "description": "Perfil para Grasielle Dassi - Mato Grosso",
-    "versao": 1,
+    "description": "Grasielle Dassi - PARES",
+    "versao": 2,
     "createdDate": 1770650451236,
-    "updatedDate": 1770650451236,
+    "updatedDate": 1787772756889,
     "expirationDate": null,
     "configuration": {
         "area": 0.0,
@@ -16,7 +16,7 @@
             "cf": "REMANESCENTE",
             "editar": true,
             "validarComCAP": true,
-            "entrada": "NUMERICA_COM_CORES"
+            "entrada": "NUMERICA"
         },
         "especie": {
             "editar": true,
