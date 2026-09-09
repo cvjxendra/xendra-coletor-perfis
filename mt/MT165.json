@@ -2,9 +2,9 @@
     "code": "MT165",
     "name": "Mauro Matricardi e Adriane",
     "description": "Perfil para Mauro Matricardi e Adriane - Mato Grosso",
-    "versao": 1,
+    "versao": 2,
     "createdDate": 1775765560670,
-    "updatedDate": 1775765560670,
+    "updatedDate": 1788917772483,
     "expirationDate": null,
     "configuration": {
         "area": 0.0,
@@ -31,6 +31,7 @@
         "levantamento": "NORMAL",
         "numeracao": "SEQUENCIAL",
         "tipoDeCoordenada": "UTM",
+        "gpsObrigatorio": true,
         "protecao": {
             "timeBomb": 0,
             "campoErradoAltura": false,
@@ -3414,6 +3415,6 @@
             "cientifico": ""
         }
     ],
-    "updateDescription": null,
+    "updateDescription": "GPS obrigatorio ativado (gpsObrigatorio: true)",
     "requiredAppVersion": null
 }
