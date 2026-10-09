@@ -2,9 +2,9 @@
     "code": "MT560",
     "name": "Ecossistema",
     "description": "Perfil para Ecossistema - Mato Grosso",
-    "versao": 1,
+    "versao": 2,
     "createdDate": 1790176630465,
-    "updatedDate": null,
+    "updatedDate": 1791550403283,
     "expirationDate": null,
     "configuration": {
         "area": 0.0,
