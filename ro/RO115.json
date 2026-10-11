@@ -2,9 +2,9 @@
     "code": "RO115",
     "name": "Wagner Alves de Lima - Projetos Engenharia",
     "description": "Perfil para Wagner Alves de Lima - Projetos Engenharia - Rondônia",
-    "versao": 1,
+    "versao": 2,
     "createdDate": 1758144155367,
-    "updatedDate": 1758144155367,
+    "updatedDate": 1791741981573,
     "expirationDate": null,
     "configuration": {
         "area": 0.0,
@@ -15,7 +15,8 @@
         "categoria": {
             "cf": "CORTE_FUTURO",
             "editar": false,
-            "validarComCAP": false
+            "validarComCAP": false,
+            "entrada": "OCULTA"
         },
         "especie": {
             "editar": true,
@@ -30,6 +31,8 @@
         "levantamento": "NORMAL",
         "numeracao": "SEQUENCIAL",
         "tipoDeCoordenada": "UTM",
+        "gpsObrigatorio": true,
+        "requireDegradedSaveConfirmation": true,
         "protecao": {
             "timeBomb": 0,
             "campoErradoAltura": false,
